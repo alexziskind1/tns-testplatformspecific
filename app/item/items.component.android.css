@@ -1,0 +1,6 @@
+@import url("items.component.common.css");
+
+.my-label {
+    color: red;
+    font-style: italic;
+}
